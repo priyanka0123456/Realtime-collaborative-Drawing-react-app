@@ -15,11 +15,13 @@ A real-time collaborative whiteboard application built using the **MERN Stack (M
 
 ### 🏠 Home Page  
 
-## 🛠 Admin Dashboard
+![Image](https://github.com/user-attachments/assets/8a636ee3-901a-4eee-8155-1648c200d316)
 
+## 🛠 Admin Dashboard
+![Image](https://github.com/user-attachments/assets/ce7cafc4-60ae-46e2-a622-fb65b43d1efc)
 
 ## 👥 Other Users Page
-
+![Image](https://github.com/user-attachments/assets/46c8399a-a266-454d-ae75-b9fab2c0d477)
 
 ## ⚙️ Tech Stack
 
